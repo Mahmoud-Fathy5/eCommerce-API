@@ -86,8 +86,8 @@ Ensure you have **Node.js** (v18+) and **PostgreSQL** installed locally or runni
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Mahmoud-Fathy5/eCommerce-API
+cd eCommerce-API
 npm install
 ```
 
@@ -125,4 +125,3 @@ npm run rundev
 ```
 
 The server will start running on port `5001`.
-
